@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "space soccer",
+"dataUrl": "6a18305b9aef39cd4617f6a1268774a3.unityweb",
+"wasmCodeUrl": "ed6bca81f763de70658b73e589b11716.unityweb",
+"wasmFrameworkUrl": "6d8377a0f9bd4f959cb76a4e3aae555d.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"cacheControl": {"default": "must-revalidate"}
+}
